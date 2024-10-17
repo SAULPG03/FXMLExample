@@ -1,0 +1,10 @@
+.root {
+    -fx-background-image: url('Images/background.jpg');
+    -fx-padding: 10;
+}
+
+#welcome-text {
+    -fx-font-size: 32px;
+    -fx-font-weight: bold;
+    -fx-fill: #333333;
+}
